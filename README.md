@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -908,16 +907,7 @@ var wpieAjax = {"ajaxUrl":"https:\/\/www.bbbbbb.me\/wp-admin\/admin-ajax.php","t
             </a> 
             </div>
             
-            
-
-
-
-
-
-            
-
-
-
+ 
 </footer>
 
 </div>
